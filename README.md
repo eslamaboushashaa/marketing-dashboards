@@ -5,4 +5,4 @@
 
 
 ## first dashboard for SEO KPI
-[SEO KPI](1699781709071.jpeg)
+[SEO KPI](1699781709071.jpeg?row=true)
